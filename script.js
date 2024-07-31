@@ -1,5 +1,7 @@
 
 //console log text, expression 
+let name = "arifur"
+console.log(name)
 
 // Create a variable to hold your name as a string
 
