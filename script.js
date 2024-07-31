@@ -23,5 +23,7 @@ console.log(name)
 //string methods
 
 //link up html file and create prompt and save value
+let username = prompt('whats your name')
+console.log('hello ' + username)
 
 //access the DOM
